@@ -1,0 +1,3 @@
+flask
+gunicorn
+# add any other packages your app needs
